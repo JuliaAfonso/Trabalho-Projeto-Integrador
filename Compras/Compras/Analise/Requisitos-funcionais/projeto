@@ -1,0 +1,15 @@
+Principal funcionalidade do meu software: entregar as compras para os clientes.
+
+O que o sistema precisa fazer para atingir objetivo principal:                         Complexidade               Tempo estimado
+
+- Cadastro de usuario;                                                                      2                         6 hrs
+- Cadastro de mercados;                                                                     2                         2 hrs                 
+- Cadastro de transportadoras;                                                              2                         1 hrs
+- Cadastro de produtos / valores / quantidade;                                              1                        15 hrs
+- Valorizar comentários sobre os mercados, marcas e produtos;                               3                         2 hrs
+- Estimativa de tempo de entrega;                                                           2                         2 hrs
+- Aceitação de váriados tipos de pagamentos (dinheiro, pix, cartões, tickets);              3                         3 hrs
+- Cadastro de endereços;                                                                    2                         2 hrs
+- Cadastros de bom cliente para descontos especificos;                                      4                         3 hrs
+- Telas de promoções com layouts chamativos;                                                5                         4 hrs
+- Pontos para acumular em cupons;                                                           5                         4 hrs
